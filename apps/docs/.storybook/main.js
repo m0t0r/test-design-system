@@ -15,7 +15,7 @@ module.exports = {
         alias: [
           {
             find: '@m0t0r/design-system',
-            replacement: path.resolve(__dirname, '../../../packages/design-system/'),
+            replacement: path.resolve(__dirname, '../../../packages/m0t0r-design-system/'),
           },
         ],
       },

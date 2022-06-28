@@ -2,6 +2,7 @@
   "name": "@m0t0r/tsconfig",
   "version": "0.0.0",
   "license": "MIT",
+  "private": true,
   "main": "index.js",
   "files": [
     "base.json",

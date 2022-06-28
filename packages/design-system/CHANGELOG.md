@@ -1,5 +1,11 @@
 # @m0t0r/design-system
 
+## 0.0.3
+
+### Patch Changes
+
+- 10d1d84: Adding Message component
+
 ## 0.0.2
 
 ### Patch Changes

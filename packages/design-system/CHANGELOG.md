@@ -1,5 +1,11 @@
 # @m0t0r/design-system
 
+## 0.0.4
+
+### Patch Changes
+
+- 4d42a5d: Tweaking build configuration
+
 ## 0.0.3
 
 ### Patch Changes

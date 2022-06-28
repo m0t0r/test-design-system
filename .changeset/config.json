@@ -8,6 +8,9 @@
   "baseBranch": "main",
   "updateInternalDependencies": "patch",
   "ignore": [
-    "@m0t0r/docs"
+    "@m0t0r/docs",
+    "eslint-config-m0t0r",
+    "@m0t0r/tsconfig",
+    "@m0t0r/utils"
   ]
 }

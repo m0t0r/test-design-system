@@ -1,0 +1,7 @@
+# @acme/core
+
+## 0.0.1
+
+### Patch Changes
+
+- 8105d7b: Testing version

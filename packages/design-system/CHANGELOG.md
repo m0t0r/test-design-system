@@ -1,4 +1,4 @@
-# @acme/core
+# @m0t0r/design-system
 
 ## 0.0.1
 

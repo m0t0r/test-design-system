@@ -1,4 +1,4 @@
 module.exports = {
   root: true,
-  extends: ["acme"],
+  extends: ['m0t0r'],
 };
